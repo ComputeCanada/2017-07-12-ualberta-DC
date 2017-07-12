@@ -21,6 +21,7 @@ library(tidyr)
 
 - Powerful
 - Free and Open Source
+- Large User Base
 - Helps with Reproducibility
 - Not as Hard as May Seem
 - Fun(?)
