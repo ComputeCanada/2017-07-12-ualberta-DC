@@ -1,6 +1,6 @@
-## Data Formats - Caveats
+# Data Formats - Caveats #
 
-###Commas as part of data values in `*.csv` files
+## Commas as part of data values in `*.csv` files ##
 
 In the [previous lesson](05-exporting-data.md) we discussed how to export Excel file formats into `*.csv`. CSV files are indeed very useful, allowing for the exchange and sharing of data. However, there are some significant problems with this particular format. Quite often the data values themselves may include commas (,). In that case, the software which you use (including Excel) will most likely incorrectly display the data in columns. It is because the commas which are a part of the data values will be interpreted as a delimiter.
 
@@ -18,8 +18,7 @@ If we try to read the above into Excel (or other spreadsheet programme), we will
 
 The value for 'taxa' was split into two columns (instead of being put in one column `D`). This can propagate to a number of further errors. For example, the "extra" column will be interpreted as a column with many missing values (and without a proper header!). In addition to that, the value in column `D` for the record in row 3 (so the one where the value for 'taxa' contained the comma) is now incorrect. 
  
-
-### Dealing with commas as part of data values in `*.csv` files
+### Dealing with commas as part of data values in `*.csv` files ###
 
 If you want to store your data in `*.csv` and expect that your data may contain commas in their values, you can avoid the problem discussed above by putting the values in quotes (""). This [example data file](species.csv) applies this rule so the actual data looks like:
 
