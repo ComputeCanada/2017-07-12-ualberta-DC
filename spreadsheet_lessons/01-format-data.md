@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Formatting data tables in Spreadsheets
-root: .
----
-
 ## Learning Objectives
 * Learning best practices for recording and formatting data in spreadsheets
 * Understanding the correspondence between columns and rows in spreadsheets
@@ -22,7 +16,6 @@ entry or setting up your experiment. You can set things up in a different
 way in spreadsheets, but it limits your ability to work with the data
 in other programs or have the you-of-6-months-from-now or your collaborator
 work with the data.
-
 
 ###Structuring data in spreadsheets
 
@@ -74,4 +67,4 @@ that a computer will be able to understand it.
 
 After you go through this exercise, we'll discuss as a group what you think was wrong with this data organization and how you fixed it.  
 
-Previous: [Introduction](00-intro.html)  Next: [Common formatting mistakes](02-common-mistakes.html)
+Previous: [Introduction](00-intro.md)  Next: [Common formatting mistakes](02-common-mistakes.md)

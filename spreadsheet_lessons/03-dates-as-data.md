@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Dates as data
-root: .
----
-
 ## Learning Objectives
 
 * Understanding how dates are handled and formatted in spreadsheets.
@@ -88,4 +82,4 @@ You can easily convert your dates into the DOY format using a handy formula in E
 
 ![Kill that ambiguity before it bites you!](7_excel_dates_3.jpg)
 
-Previous: [Common formatting mistakes by spreadsheet users.](02-common-mistakes.html) Next: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html)
+Previous: [Common formatting mistakes by spreadsheet users.](02-common-mistakes.md) Next: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md)

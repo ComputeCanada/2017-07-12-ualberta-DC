@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Caveats of popular data and file formats 
-root: .
----
-
 ## Data Formats - Caveats
 
 ###Commas as part of data values in `*.csv` files
@@ -56,4 +50,4 @@ If the dataset you're dealing with contains hundreds or thousands of records, cl
 
 Cleaning up datasets is one of major problems in many scientific disciplines. The approach almost always depends on the particular context. However, it is a good practice to clean the data in an automated fashion, for example by writing and running a script. Other lessons in Data Carpentry covering shell, Python and R will give you the basis for developing skills to build relevant scripts.
 
-Previous: [Exporting data from spreadsheets.](05-exporting-data.html)
+Previous: [Exporting data from spreadsheets.](05-exporting-data.md)

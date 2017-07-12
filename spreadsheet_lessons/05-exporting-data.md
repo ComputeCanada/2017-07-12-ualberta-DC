@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Exporting data from spreadsheets
-root: .
----
-
 ## Exporting Data
 
 ###Spreadsheet data formats
@@ -57,4 +51,4 @@ and then create a file `.gitattributes` that contains the line:
 
 3. Use [dos2unix](http://dos2unix.sourceforge.net/) (available on OSX, *nix, and Cygwin) on local files to standardize line endings.
 
-Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.html)
+Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.md)
