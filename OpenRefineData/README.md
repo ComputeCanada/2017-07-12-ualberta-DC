@@ -1,4 +1,10 @@
-## Data File for Open Refine Lesson ##
+# Open Refine
+
+## Lesson Material
+
+You can find the lesson material we will be (partially) following [here](http://programminghistorian.org/lessons/cleaning-data-with-openrefine). 
+
+## Data File for Open Refine Lesson
 
 Click on the following URL and download the file to your computer.
 
